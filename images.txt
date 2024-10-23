@@ -9,3 +9,4 @@ ghcr.io/open-webui/open-webui:main
 ghcr.io/cinnamon/kotaemon:main-full
 ghcr.io/cinnamon/kotaemon:main-lite
 python:3.10-slim
+kylinmountain/graphrag-server:0.3.1
